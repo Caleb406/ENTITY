@@ -1,0 +1,16 @@
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.exe.config
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.pdb
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.dll
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.xml
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csproj.AssemblyReference.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.Form1.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.FrmTabla.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.Properties.Resources.resources
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csproj.GenerateResource.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFR.2C37A547.Up2Date
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.exe
+C:\Users\ATC\Documents\Universidad\PROGRA\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.pdb
